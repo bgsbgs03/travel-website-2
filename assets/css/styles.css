@@ -359,6 +359,17 @@ img {
   margin-bottom: 2rem;
 }
 
+.logo__image {
+  position: relative;
+  justify-self: center;
+  overflow: hidden;
+}
+
+.logo__img {
+  width: 300px;
+  /* transition: transform 0.4s; */
+}
+
 .about__image {
   position: relative;
   justify-self: center;
